@@ -46,7 +46,7 @@ if uploaded_file is not None:
     
     #display image
     
-    st.image(image,caption="Uploaded Tomato Leaf",widht=300)
+    st.image(image,caption="Uploaded Tomato Leaf",width=300)
     
     # prediction
     
