@@ -1,0 +1,28 @@
+step1
+
+cd H:
+
+cd Tomao
+
+step2
+
+git init
+
+
+
+git remote add origin https://github.com/kbraj193/Tomato-Plant-Disease.git
+
+git remote -v
+
+git status    // files in red color
+
+git add .
+
+git status   // files in green color
+
+git commit -m "my first push to repo"
+
+
+git push origin master
+
+git lfs install

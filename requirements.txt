@@ -1,0 +1,5 @@
+pandas
+scikit-learn
+opencv-contrib-python
+tensorflow
+pillow
